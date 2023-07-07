@@ -1,0 +1,70 @@
+/* Background color for the body */
+body {
+    background-color: #f2f2f2;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Container styles */
+  #search-container,
+  #results-container,
+  #book-details,
+  #user-account {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Search form styles */
+  #search-form {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #search-input {
+    flex-grow: 1;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  /* Book results styles */
+  #results-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #results-list li {
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Book details styles */
+  #book-info {
+    margin-bottom: 10px;
+  }
+  
+  /* Buttons styles */
+  button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Image styles */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  
